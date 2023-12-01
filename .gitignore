@@ -1,0 +1,5 @@
+#Evitar subir .env
+.env
+
+#Evitar subir node_modules
+node_modules
